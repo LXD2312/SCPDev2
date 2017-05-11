@@ -1,2 +1,2 @@
 $.response.contentType="text/plain";
-$.response.setBody("Hello 303");
+$.response.setBody("Hello 403");
